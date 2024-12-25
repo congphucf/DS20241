@@ -1,0 +1,4 @@
+vnstock3
+xarray
+cfgrib
+cdsapi>=0.7.0
